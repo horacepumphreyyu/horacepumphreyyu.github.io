@@ -1,4 +1,8 @@
 User-Agent: *
 Disallow: /login
 
-Sitemap: https://horacepumphreyyu.github.io/zp533/sitemap_index.txt
+Sitemap: https://horacepumphreyyu.github.io/1.txt
+Sitemap: https://horacepumphreyyu.github.io/100001.txt
+Sitemap: https://horacepumphreyyu.github.io/150001.txt
+Sitemap: https://horacepumphreyyu.github.io/200001.txt
+Sitemap: https://horacepumphreyyu.github.io/500001.txt
